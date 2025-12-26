@@ -1,0 +1,32 @@
+.idea/
+*.iml
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+spring-boot-app.log
+# Maven
+.mvn/
+**/target/
+
+# IntelliJ
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+.settings/
+
+# VS Code
+.vscode/
+
+# Others
+node_modules/
+
