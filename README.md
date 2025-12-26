@@ -119,7 +119,6 @@ git push -u origin main
 
 If you prefer SSH, use your SSH remote URL instead. If you get authentication errors, either provide your GitHub credentials when prompted, or use a personal access token (PAT) for HTTPS pushes, or configure SSH keys.
 
-## Recommended small improvements (optional)
 
 - Return 404 for missing resources instead of letting `.get()` throw an exception.
 - Return created entity or Location header for POST requests.
